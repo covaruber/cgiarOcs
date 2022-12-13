@@ -1,0 +1,11 @@
+Package: cgiarOcs
+Type: Package
+Title: Optimal contribution selection
+Version: 1.0
+Date: 2022-12-12
+Author: Chris Gaynor
+Maintainer: Giovanny Covarrubias-Pazaran <cova_ruber@live.com.mx>
+Description: Optimal contribution selection from Chris Gaynor in the form of a package for shiny apps
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.9)
+LinkingTo: Rcpp, RcppArmadillo
