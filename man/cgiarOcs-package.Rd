@@ -13,7 +13,7 @@
 The DESCRIPTION file:
 \packageDESCRIPTION{cgiarOcs}
 \packageIndices{cgiarOcs}
-~~ An overview of how to use the package, including the most important functions ~~
+~~ An overview of how to use the package, including the most important functions oh yes~~
 }
 \author{
 \packageAuthor{cgiarOcs}
