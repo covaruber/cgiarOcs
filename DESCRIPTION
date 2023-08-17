@@ -1,7 +1,7 @@
 Package: cgiarOcs
 Type: Package
 Title: Optimal contribution selection
-Version: 1.0
+Version: 1.1
 Date: 2022-12-12
 Author: Chris Gaynor
 Maintainer: Giovanny Covarrubias-Pazaran <cova_ruber@live.com.mx>
